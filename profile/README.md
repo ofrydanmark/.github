@@ -1,31 +1,60 @@
+<div align="center">
+
+<br>
+
 # Ofry
 
-Booking-platform for hjemmeservice i Danmark — vinduespudsning, havearbejde,
-rengøring, malerarbejde, højtryksrensning, bilpleje, handyman-opgaver og mere.
-Kunder booker pålidelige lokale udbydere; udbydere driver deres forretning fra
-ét samlet dashboard.
+### Pålidelig hjælp i hjemmet — booket på minutter.
 
-Live på [ofry.dk](https://ofry.dk).
+Vinduespudsning, rengøring, malerarbejde, havearbejde og meget mere.  
+Leveret af verificerede lokale udbydere over hele Danmark.
 
-## Repositories
+<br>
 
-| Repo | Formål |
-| --- | --- |
-| [service-now-simple](https://github.com/ofrydanmark/service-now-simple) | Kunde- og udbyder-webapp (Vite, React, Tailwind, shadcn/ui) |
-| [ofry-app](https://github.com/ofrydanmark/ofry-app) | Mobilapp til kunder og udbydere (Expo, React Native, NativeWind) |
+[**Find hjælp →**](https://ofry.dk) &nbsp; · &nbsp; [**Bliv udbyder →**](https://ofry.dk)
 
-Begge klienter deler én Supabase-backend (Postgres, Auth, Storage, Edge
-Functions), med Stripe Connect til udbetaling til udbydere og Stripe Payments
-til bookings.
+<br>
 
-## Stack
+---
 
-- **Frontend** — React, TypeScript, Tailwind / NativeWind
-- **Mobil** — Expo Router, EAS Build, native moduler hvor nødvendigt (`react-native-maps`, `expo-notifications`, `@stripe/stripe-react-native`)
-- **Backend** — Supabase (Postgres + Edge Functions på Deno), Stripe (Connect + Payment Intents), Resend (transaktionel mail), Google Maps Platform
-- **Tooling** — Bun, Lovable til web-iteration, EAS til mobil-builds
+</div>
 
-## Kontakt
+<br>
 
-Baseret i Danmark. Kontakt teamet på [hello@ofry.dk](mailto:hello@ofry.dk) for
-partnerskaber, support eller henvendelser om jobs.
+## Til kunder
+
+Book hjælp på under et minut. Fast pris vist op front, ingen overraskelser, og
+betaling der først frigives, når opgaven er udført som aftalt. Læs anmeldelser,
+vælg en udbyder du har tillid til, og slap af — vi tager os af resten.
+
+- Verificerede udbydere med ægte anmeldelser
+- Fast pris op front — ingen skjulte gebyrer
+- Sikker betaling med Apple Pay, MobilePay eller kort
+- Direkte chat med din udbyder hele vejen igennem
+
+<br>
+
+## Til udbydere
+
+Flere kunder, mindre administration. Bookinger lander direkte i din kalender,
+betalinger håndteres automatisk, og udbetaling rammer din konto efter hver
+udført opgave. Du fokuserer på arbejdet — vi finder kunderne.
+
+- Få nye kunder uden at betale for annoncer
+- Bookinger og betalinger samlet ét sted
+- Automatisk udbetaling efter hver opgave
+- Byg dit ry op med anmeldelser fra rigtige kunder
+
+<br>
+
+---
+
+<div align="center">
+
+<br>
+
+**[ofry.dk](https://ofry.dk)** &nbsp; · &nbsp; [hello@ofry.dk](mailto:hello@ofry.dk)
+
+<sub>Bygget i Danmark.</sub>
+
+</div>
