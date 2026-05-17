@@ -2,7 +2,10 @@
 
 <br>
 
-# Ofry
+<img src="https://github.com/user-attachments/assets/e12f6eef-f63b-4d10-a85a-5a9690954187"
+ alt="Ofry" width="200">
+
+<br><br>
 
 ### Pålidelig hjælp i hjemmet — booket på minutter.
 
@@ -11,7 +14,13 @@ Leveret af verificerede lokale udbydere over hele Danmark.
 
 <br>
 
-[**Find hjælp →**](https://ofry.dk) &nbsp; · &nbsp; [**Bliv udbyder →**](https://ofry.dk)
+[**Find hjælp →**](https://www.ofry.dk) &nbsp; · &nbsp; [**Bliv udbyder →**](https://www.ofry.dk/company-signup)
+
+<br>
+
+[![App Store](https://img.shields.io/badge/App_Store-Snart-A1A1AA?style=for-the-badge&logo=apple&logoColor=white)]()
+&nbsp;
+[![Google Play](https://img.shields.io/badge/Google_Play-Snart-A1A1AA?style=for-the-badge&logo=googleplay&logoColor=white)]()
 
 <br>
 
@@ -53,7 +62,7 @@ udført opgave. Du fokuserer på arbejdet — vi finder kunderne.
 
 <br>
 
-**[ofry.dk](https://ofry.dk)** &nbsp; · &nbsp; [hello@ofry.dk](mailto:hello@ofry.dk)
+**[ofry.dk](https://www.ofry.dk)** &nbsp; · &nbsp; [business@ofry.dk](mailto:business@ofry.dk)
 
 <sub>Bygget i Danmark.</sub>
 
